@@ -43,8 +43,12 @@ Disable Firewall:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/774f5b78-60a0-497b-9674-ea3b5a4868f1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Create Custom log to Extract & Analyze Logs:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/f44c25e0-eb81-4409-b010-ac1e6b24a8d1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Observe the wiped disk:  <br/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c3dd49fb-ee48-4da2-8f53-5f5e1c52f421" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
