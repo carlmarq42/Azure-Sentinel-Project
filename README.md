@@ -44,7 +44,12 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/f44c25e0-eb81-4409-b010-ac1e6b24a8d1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/774f5b78-60a0-497b-9674-ea3b5a4868f1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
