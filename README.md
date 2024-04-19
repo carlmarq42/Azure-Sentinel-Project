@@ -24,7 +24,7 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/e38c0fce-8548-43c9-9fac-211c3432172c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
