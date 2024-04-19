@@ -24,11 +24,11 @@ Launch the utility: <br/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/e38c0fce-8548-43c9-9fac-211c3432172c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/e38c0fce-8548-43c9-9fac-211c3432172c" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c26ecb4a-bd07-4b18-afeb-618cd143456b" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c26ecb4a-bd07-4b18-afeb-618cd143456b" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
