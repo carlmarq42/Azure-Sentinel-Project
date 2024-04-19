@@ -47,11 +47,11 @@ Create Custom log to Extract & Analyze Logs:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/f44c25e0-eb81-4409-b010-ac1e6b24a8d1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Observe the wiped disk:  <br/>
+ Run Script to Organize Logs by Geolocation:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c3dd49fb-ee48-4da2-8f53-5f5e1c52f421" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Create Map in Sentinel Workbook:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/8f23a35f-3561-493e-94d6-c2482ffedde0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
