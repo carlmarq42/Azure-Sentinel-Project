@@ -23,23 +23,23 @@ Launch the utility: <br/>
 <img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/5c1546f0-8deb-4671-9d2e-1c6b95e2510a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Create Virtual Machine in Microsoft Azure: <br/> 
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/e38c0fce-8548-43c9-9fac-211c3432172c" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Open Allow Ports : <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c26ecb4a-bd07-4b18-afeb-618cd143456b" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Create Log Analytics Workspace:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/1fb89489-3d1e-4b9f-875b-5804cc6d7198" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Remote Login into VM:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/967d4248-336c-4087-b301-b0ddb396cb33" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Disable Firewall:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/774f5b78-60a0-497b-9674-ea3b5a4868f1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
