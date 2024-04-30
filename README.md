@@ -11,12 +11,12 @@ Setting up a virtual machine within Microsoft Azure that will act as a honeypot 
 
 <h2>Environments & Tools Used </h2>
 
-- <b>Azure Sentinel</b> (21H2)
+- <b>Azure Sentinel</b> 
 - <b>Windows 10 Pro VM</b> 
 - <b>PowerShell script</b>
 - <b>geolocation API</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
