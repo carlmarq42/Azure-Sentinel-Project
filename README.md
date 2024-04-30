@@ -44,14 +44,14 @@ Create Custom log to Extract & Analyze Logs:  <br/>
 <br />
 <br />
  Run Script to Organize Logs by Geolocation:  <br/>
-<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c3dd49fb-ee48-4da2-8f53-5f5e1c52f421" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/c3dd49fb-ee48-4da2-8f53-5f5e1c52f421" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Map in Sentinel Workbook:  <br/>
-<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/8f23a35f-3561-493e-94d6-c2482ffedde0" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/8f23a35f-3561-493e-94d6-c2482ffedde0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p align="center">
 
-<img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/5c1546f0-8deb-4671-9d2e-1c6b95e2510a" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/5c1546f0-8deb-4671-9d2e-1c6b95e2510a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
