@@ -18,11 +18,7 @@ Setting up a virtual machine within Microsoft Azure that will act as a honeypot 
 
 <h2>Project walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/5c1546f0-8deb-4671-9d2e-1c6b95e2510a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Create Virtual Machine in Microsoft Azure: <br/> 
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/e38c0fce-8548-43c9-9fac-211c3432172c" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
@@ -53,7 +49,11 @@ Create Custom log to Extract & Analyze Logs:  <br/>
 <br />
 Create Map in Sentinel Workbook:  <br/>
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/8f23a35f-3561-493e-94d6-c2482ffedde0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
 
+<img src="https://github.com/carlmarq42/Azure-Sentinel-Project/assets/165202865/5c1546f0-8deb-4671-9d2e-1c6b95e2510a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
