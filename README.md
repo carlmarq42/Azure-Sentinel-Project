@@ -18,7 +18,7 @@ Setting up a virtual machine within Microsoft Azure that will act as a honeypot 
 
 <h2>Project walk-through:</h2>
 
-
+<p align="center">
 Create Virtual Machine in Microsoft Azure: <br/> 
 <img src="https://github.com/carlmarq42/Oracle-VM-/assets/165202865/e38c0fce-8548-43c9-9fac-211c3432172c" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
